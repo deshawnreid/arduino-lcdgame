@@ -23,3 +23,18 @@ INCLUDED: Original game file; All testing files included; An address bus scanner
 
 
 ITEMS USED: Arduino Mega 2560; 16x2 I2C LCD; 3 Push Buttons; Jumper Cables; 2 Breadboards.
+
+
+
+
+
+
+
+
+
+
+
+
+HOW THE CODE WORKS:
+
+![image](https://user-images.githubusercontent.com/126040370/221351764-e45a828d-2e87-49e0-9716-cf5ebd457602.png)
