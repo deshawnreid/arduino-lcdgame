@@ -1,6 +1,6 @@
 #include <Wire.h> //Library allows us to communicate with I2C devices MEGA : SDA 20 SCL 21
 #include <LiquidCrystal_I2C.h> // Library allows communication with LCDS using I2C
-LiquidCrystal_I2C lcd(0x27, 16, 2); // Address of our adapter, display length, display height 
+LiquidCrystal_I2C lcd(0x27, 16, 2); // Address of adapter, display length, display height 
 
 
 //STEP TWO: character creation
