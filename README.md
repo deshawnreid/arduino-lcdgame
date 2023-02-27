@@ -38,3 +38,8 @@ ITEMS USED: Arduino Mega 2560; 16x2 I2C LCD; 3 Push Buttons; Jumper Cables; 2 Br
 HOW THE CODE WORKS:
 
 ![image](https://user-images.githubusercontent.com/126040370/221351764-e45a828d-2e87-49e0-9716-cf5ebd457602.png)
+
+
+
+HARDWARE SETUP:
+![image](https://user-images.githubusercontent.com/126040370/221606258-a232fb24-c24b-4143-82e1-2d7cec1e2a36.png)
