@@ -41,5 +41,5 @@ HOW THE CODE WORKS:
 
 
 
-HARDWARE SETUP:
+WIRING DIAGRAM:
 ![image](https://user-images.githubusercontent.com/126040370/221606258-a232fb24-c24b-4143-82e1-2d7cec1e2a36.png)
