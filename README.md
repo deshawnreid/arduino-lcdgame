@@ -43,3 +43,6 @@ HOW THE CODE WORKS:
 
 WIRING DIAGRAM:
 ![image](https://user-images.githubusercontent.com/126040370/221606258-a232fb24-c24b-4143-82e1-2d7cec1e2a36.png)
+
+HARDWARE SETUP:
+![image](https://user-images.githubusercontent.com/126040370/222473294-4324f467-79e0-4f03-8f34-924985a9cb67.png)
